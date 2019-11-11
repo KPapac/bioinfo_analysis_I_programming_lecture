@@ -1,0 +1,8 @@
+#id gene    organism    length
+1   rpoB	E. coli     1342
+2	groEL	B. quintana	547
+4	hemE	M. morganii	355
+5	thiH	S. sonnei	377
+6	recA	S. enterica	353
+8	rpoB	Y. pestis	332
+10	cyaA	C. aceticum	131

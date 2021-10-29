@@ -1,0 +1,5 @@
+thrA b0002
+thrB b0003
+thrC b0004
+yaaA b0006
+yaaJ b0007

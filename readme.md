@@ -16,4 +16,4 @@ __Assignment 1: Extract blast results__
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilhaegglund/programming_lecture/HEAD?labpath=assignment_extract_blast_results.ipynb)
 
 __Assignment 2: Working with sequence data__  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilhaegglund/programming_lecture/HEAD?labpath=assignment_extract_blast_results.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilhaegglund/programming_lecture/HEAD?labpath=assignment_working_with_sequence_data.ipynb)

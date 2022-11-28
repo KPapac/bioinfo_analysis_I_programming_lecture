@@ -1,5 +1,8 @@
 This repository contains exercises and assignments for the Introduction to programming lab in the Bioinformatic Analysis 1 course. Press the Launch Binder button to open a Jupyter Notebook with the exercises.
 
+__Notebook presented in the classroom__  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KPapac/bioinfo_analysis_I_programming_lecture/HEAD?labpath=presentation_week3.ipynb)
+
 __Exercise 1: Strings and Ints__  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilhaegglund/programming_lecture/HEAD?labpath=exercise_strings_and_ints.ipynb)  
 
